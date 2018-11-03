@@ -1,0 +1,12 @@
+batchOS User:
+Administrator
+
+Settings
+
+<DesktopDir = \desktop>
+<DownloadsDir = \downloads>
+<MusicDir = \music>
+<PicturesDir = \pictures>
+<TerminalDataDir = \terminaldata>
+<PackagesDir = \packages>
+<CrashLogsDir = \CrashLogs>
