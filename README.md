@@ -1,2 +1,2 @@
-# batchOS-0.9B
-batchOS - Version 0.9B - Codenamed Lonestare Kaledioskope
+<h1> batchOS - Version 0.9B</h1>
+<h2> Codenamed: Lonestar Kaleidoscope</h2>
